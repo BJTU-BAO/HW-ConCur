@@ -1,1 +1,1 @@
-# HW-ConCur
+此目录为smith模型的wsp方式训练的预训练模型。
